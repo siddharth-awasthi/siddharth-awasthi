@@ -1,4 +1,4 @@
-<h2 align="left">heyo👋! My name is siddharth and I'm a web developer</h2>
+<h2 align="left">heyo👋! My name is siddharth and I'm a jack of all traits</h2>
 
 ###
 
