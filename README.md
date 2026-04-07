@@ -1,21 +1,28 @@
 <h1 align="center">Hey, I'm Siddharth 👋</h1>
+
 <p align="center">
   <b>AI Engineer · LLM Systems Builder · ex–Front-End Dev</b><br/>
   <i>I used to make things look good. Now I make things think.</i>
 </p>
-<br/>
-<img align="right" height="160" src="https://media.giphy.com/media/luOncmGGhXtMh3gVQB/giphy.gif" />
-What I'm about
 
-🤖 Building local AI agents with LangChain, LangGraph & Ollama — no cloud, full privacy
-🧠 Designing RAG pipelines with ChromaDB, LlamaIndex & smolagents
-🔍 Exploring multi-agent systems, prompt engineering & LLM fine-tuning (LoRA / PEFT)
-☁️ Azure AI certified (AI-900) · Hugging Face NLP certified
-🎨 Still love clean UI — the front-end roots never fully leave
+<br/>
+
+<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+### What I'm about
+
+- 🤖 Building **local AI agents** with LangChain, LangGraph & Ollama — no cloud, full privacy
+- 🧠 Designing **RAG pipelines** with ChromaDB, LlamaIndex & smolagents
+- 🔍 Exploring **multi-agent systems**, prompt engineering & LLM fine-tuning (LoRA / PEFT)
+- ☁️ Azure AI certified (AI-900) · Hugging Face NLP certified
+- 🎨 Still love clean UI — the front-end roots never fully leave
 
 <br clear="both"/>
 
-🧰 Current AI Stack
+---
+
+### 🧰 Current AI Stack
+
 <div align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/LlamaIndex-6B48FF?style=for-the-badge&logoColor=white" height="28"/>
@@ -26,8 +33,11 @@ What I'm about
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="28"/>
 </div>
+
 <br/>
-🛠️ The OG Stack (still fluent)
+
+### 🛠️ The OG Stack (still fluent)
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python"/>
   <img width="10"/>
@@ -48,16 +58,33 @@ What I'm about
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git"/>
 </div>
 
-📌 Featured Projects
-ProjectWhat it doesStackBob — Local AI AgentFully private LLM agent with memory & web search, zero external API callsOllama · LangChain · LangGraph · ChromaDB · RAGFraud Detection SystemDetects insurance fraud from raw case files using NLP + OCRPython · NLP · OCR · Scikit-learn · FastAPIInfosaathiAutomation toolkit for Indian Post Office — Top 60/500 at Smart India HackathonNLP Chatbot · Voice Model · Crop Predictor
+---
 
-📊 GitHub Stats
+### 📌 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **Bob** — Local AI Agent | Fully private LLM agent with memory & web search, zero external API calls | Ollama · LangChain · LangGraph · ChromaDB · RAG |
+| **Fraud Detection System** | Detects insurance fraud from raw case files using NLP + OCR | Python · NLP · OCR · Scikit-learn · FastAPI |
+| **Infosaathi** | Automation toolkit for Indian Post Office — Top 60/500 at Smart India Hackathon | NLP Chatbot · Voice Model · Crop Predictor |
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharth-awasthi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=default&locale=en&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-awasthi&layout=compact&theme=default&hide_border=false" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddharth-awasthi&theme=github" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddharth-awasthi&theme=github" height="160"/>
 </div>
 
-📬 Find me
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=siddharth-awasthi&theme=default&hide_border=false&date_format=j%20M%5B%20Y%5D" height="160"/>
+</div>
+
+---
+
+### 📬 Find me
+
 <div align="left">
   <a href="https://www.linkedin.com/in/siddharth-awasthi-95a44a254/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="32"/>
@@ -72,7 +99,9 @@ ProjectWhat it doesStackBob — Local AI AgentFully private LLM agent with memor
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="32"/>
   </a>
 </div>
+
 <br/>
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/siddharth-awasthi/count.svg?" />
 </div>
